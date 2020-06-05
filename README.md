@@ -6,7 +6,7 @@ This is the example game source code for developing DOS game. Which will develop
    1. King 
 </div>
  <div>
-   2.Horse 
+   2. Horse 
 </div>
  <div>
    3. Pawn 
