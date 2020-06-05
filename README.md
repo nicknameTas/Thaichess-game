@@ -12,6 +12,6 @@ This is the example game source code for developing DOS game. Which will develop
    3. Pawn 
 </div><br><br>
   
-![a555](https://user-images.githubusercontent.com/31851293/83769959-b0422f00-a6aa-11ea-86cf-70eeffb5df02.PNG)
+![chess1](https://user-images.githubusercontent.com/31851293/83883735-15128d80-a76e-11ea-875f-c461f07636e7.PNG)
 
-<b>Can be developed!/b>
+<b>Can be developed!</b>
