@@ -14,4 +14,6 @@ This is the example game source code for developing DOS game. Which will develop
   
 ![chess1](https://user-images.githubusercontent.com/31851293/83883735-15128d80-a76e-11ea-875f-c461f07636e7.PNG)
 
-<b>Can be developed!</b>
+<b>Can be developed!</b><br>
+
+****** initgraph(&gd, &gm, "C:\\TURBOC3\\BGI"); << "C:\\TURBOC3\\BGI" Change Path of You BGI 
