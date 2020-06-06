@@ -16,4 +16,4 @@ This is the example game source code for developing DOS game. Which will develop
 
 <b>Can be developed!</b><br>
 
-****** initgraph(&gd, &gm, "C:\\TURBOC3\\BGI"); << "C:\\TURBOC3\\BGI" Change Path of You BGI 
+****** initgraph(&gd, &gm, "C:\\TURBOC3\\BGI"); << "C:\\TURBOC3\\BGI" Change you BGI path
